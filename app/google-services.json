@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619547680447",
+    "project_id": "datatemandina",
+    "storage_bucket": "datatemandina.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619547680447:android:6476921feb5a8ff168f00a",
+        "android_client_info": {
+          "package_name": "com.dina.datatemandina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619547680447-9jq6c6odhva8jjp6nuhek4pqbe4u4845.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1-Gza8hyVBnC3tNxq1Ssaz2Z75Gqkt6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619547680447-9jq6c6odhva8jjp6nuhek4pqbe4u4845.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
